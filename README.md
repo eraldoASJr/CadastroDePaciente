@@ -13,6 +13,9 @@ Novos fundamentos em Framewor;
 Novas habilidades BackEnd e FrontEnd;
 Aperfeiçoamento profissional;
 
+* Porfavor, ignorar os termos 'Cadcliets' em algumas parte do projeto.
+* Link do GOOGLE Drive para acesso do projeto ENVIADO POR E-MAIL
+
 -- Itens atendidos:
 
 Validações de campos;
